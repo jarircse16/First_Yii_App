@@ -1,0 +1,19 @@
+/* web/css/custom.css */
+
+.navbar-blue {
+    background-color: Red; /* Change this to your desired color */
+    opacity: 0.8;
+    font-family: 'Consolas', monospace;
+    color: green;
+}
+
+.navbar-nav .nav-link {
+    color: green; /* Change text color to white */
+}
+/* Styles for the button when hovered */
+.navbar:hover {
+    opacity: 0.5; /* 50% transparency on hover */
+}
+.none {
+  text-decoration: none;
+}

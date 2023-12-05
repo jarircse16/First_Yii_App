@@ -1,0 +1,16 @@
+/* web/css/custom.css */
+
+.bg-footer {
+    background-color: Red; /* Change this to your desired color */
+    opacity: 0.8;
+    color: white;
+    font-family: 'Consolas', monospace;
+}
+
+.navbar-nav .nav-link {
+    color: white; /* Change text color to white */
+}
+/* Styles for the button when hovered */
+.navbar:hover {
+    opacity: 0.5; /* 50% transparency on hover */
+}

@@ -1,0 +1,11 @@
+/* Default styles for the button */
+.button {
+    border: none; /* No border */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    transition: background-color 0.3s, opacity 0.3s; /* Add transition for smooth effect */
+}
+
+/* Styles for the button when hovered */
+.button:hover {
+    opacity: 0.5; /* 50% transparency on hover */
+}
